@@ -62,7 +62,7 @@ body::after{
     align-items: center;
     width: 100%;
     height: 95vh;
-    background-image: url("/imgs/jumbtron.jpg");
+    background-image: url("imgs/jumbtron.jpg");
     background-position: center center;
     position: relative;
 }
